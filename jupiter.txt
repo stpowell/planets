@@ -1,5 +1,5 @@
 
-This is the file called jupiter (note lowercase filename).
+This is the file called jupiter (note lowercase filename)--actually filename is jupiter.txt.
 
 This is the second line in the jupiter file.
 
